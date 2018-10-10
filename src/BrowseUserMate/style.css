@@ -1,0 +1,111 @@
+.browse-user-personalize-welcome {
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto; 
+}
+.browse-user-container {
+    display:flex;
+    width: 100%;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.browse-user-img-container {
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.browse-user-collection-container {
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+
+.browser-user-img-container {
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.browse-user-profile-pic {
+    width: 300px;
+    height: 300px;
+    border: black solid;
+    margin: 0 auto;
+    display: flex;
+}
+.browse-user-info {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: left;
+}
+
+
+h1 {
+    font-family: 'Fahkwang', sans-serif;
+}
+h2 {
+    font-family: 'Fahkwang', sans-serif;
+    margin: 0;
+    padding:10px;
+}
+h3 {
+    font-family: 'Fahkwang', sans-serif;
+}
+
+.browse-user-vinyl-collection-h2 {
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.browse-user-album-info-container {
+    font-size: 12px; 
+    /* width: 300px; */
+    
+    size: 100%;
+  }
+  
+.browse-user-collection-container {
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+
+.browse-user-album-collection-container {
+    display:flex;
+    flex-wrap: wrap;
+    border-top:1px solid gray;
+    padding-top:16px;
+}
+
+.browse-user-vinyl-collection {
+    width:100%;
+}
+
+.browse-user-album-image{
+    height:200px;
+    width:200px;
+    margin:10px;
+    border: #A8D0FF solid;
+    border-radius: 3px; 
+}
+
+.browse-user-album-container {
+text-align: center;
+}
+
+.browse-user-deletion-button {
+    font-size: 12px;
+}
+
+.browse-user-addition-button {
+    font-size: 12px; 
+}
+

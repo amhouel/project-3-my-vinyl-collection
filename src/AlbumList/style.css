@@ -1,0 +1,41 @@
+h1 {
+    margin: 0;
+    padding:10px;
+    text-align: center;
+}
+    
+.album-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px 10px 16px 10px;
+    justify-content: space-evenly;  
+}
+
+.select-from-list{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.album-search-input{
+    font-family: 'Gudea', sans-serif;
+    outline: none;
+}
+
+.album-list-title{
+    font-family: 'Gudea', sans-serif;
+    font-size: 18px;
+}
+
+.view-album-button{
+    font-size:12px;
+    margin: 5px auto 15px auto;
+    text-decoration: none;
+    text-decoration-color: none;
+    cursor: pointer;
+}
+
+.album-list-page{
+    margin-top: -40px;
+}
+
+.pointer {
+    cursor: pointer;
+}

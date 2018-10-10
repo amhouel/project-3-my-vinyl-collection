@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+.album-image-individual {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #A8D0FF solid;
+    border-radius: 3%;
+}
+
+.album-container-list {
+    margin: -20px auto;
+    width: 100%;
+}
+
+.a1 {
+    margin-top: -10px;
+}
+
+.to-albumlist-button {
+    text-decoration: none;
+    color: black;
+    margin: 0;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.add-album-button {
+    margin: 0 10px 0 0;
+    cursor: pointer;
+}
+
+.button-album-container {
+    margin: 0 0 0 10px;
+    cursor: pointer;
+}
+
+.same-taste {
+    margin: 15px auto;
+}
+
+.return-input-description {
+    word-break: break-word;
+    overflow-wrap: break-word;
+    line-break: normal;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.desc-h2 {
+    text-decoration: underline;
+}
+
+.album-description {
+    width: 100%;
+}
+
+.rating-starz {
+    text-decoration: none;
+}

@@ -1,0 +1,40 @@
+*{
+    box-sizing:border-box;
+}
+
+div {
+    text-align: center;
+    padding: 3px 0 3px 0;
+}
+
+.album-container{
+    margin: 10px auto;
+    font-family: 'Gudea', sans-serif;
+}
+
+.prop-title{
+    font-size:17px;
+    color:#FF9F1C;
+    word-break:break-word;
+    overflow-wrap: break-word;
+    line-break: normal;
+}
+.prop-artist{
+    font-size:17px;
+    color: #011627;
+}
+
+.album-image-solo {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #A8D0FF solid;
+    border-radius: 3%;
+}
+
+.add-album-button{
+    font-size: 12px;
+    cursor: pointer;
+}

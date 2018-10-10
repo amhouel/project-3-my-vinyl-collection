@@ -1,0 +1,79 @@
+.personalize-welcome {
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto; 
+}
+
+.user-container {
+    display:flex;
+    width: 100%;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.user-img-container {
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+}
+
+.user-info {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    text-align: left;
+}
+
+.user-profile-pic {
+    width: 300px;
+    height: 300px;
+    border: black solid;
+    margin: 0 auto;
+    display: flex;
+}
+
+.update-profile-button {
+    font-size: 12px;
+}
+
+.user-info h2 {
+    margin: 0;
+    padding:10px;
+}
+
+.vinyl-collection-h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.user-collection-container {
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+
+.album-collection-container {
+    display:flex;
+    flex-wrap: wrap;
+    border-top:1px solid gray;
+    padding-top:16px;
+}
+
+.vinyl-collection {
+    width:100%;
+}
+
+.addition-button {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.addition-link, .update-link {
+    text-decoration: none;
+    color: #000000;
+}
+
